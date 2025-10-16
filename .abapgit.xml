@@ -3,6 +3,7 @@
  <asx:values>
   <DATA>
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
+   <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
   </DATA>
  </asx:values>
 </asx:abap>
